@@ -1,0 +1,4 @@
+﻿  Simulation.cpp
+c:\users\benedith\source\repos\openglstuff\openglstuff\simulation.cpp(31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\benedith\source\repos\openglstuff\openglstuff\simulation.cpp(61): warning C4018: '<': signed/unsigned mismatch
+  OpenGlStuff.vcxproj -> C:\Users\benedith\source\repos\OpenGlStuff\Debug\OpenGlStuff.exe
